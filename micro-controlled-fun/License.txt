@@ -1,0 +1,4 @@
+Copyright (c) 2026 YourName. All rights reserved.
+
+No one is permitted to copy, distribute, modify, or use this software 
+or any part of its source code for any purpose under any circumstances.
